@@ -33,4 +33,4 @@ DevOps          GitHub Actions · Docker Compose · Systemd · SSL/TLS (Let's En
 
 I'm open to interesting infrastructure, DevOps, or full-stack opportunities.
 
-📧 dev@saelix.com
+📧 dev@anso.codes
